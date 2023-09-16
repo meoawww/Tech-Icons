@@ -1,0 +1,39 @@
+{
+    "Technologies": [
+      {
+        "TechCategory": "Programming Language",
+        "TechName": "Java",
+        "Icon": "../java.svg"
+      },
+      {
+        "TechCategory": "Programming Language",
+        "TechName": "JavaScript",
+        "Icon": "../javascript.svg"
+      },
+      {
+        "TechCategory": "Programming Language",
+        "TechName": "C#",
+        "Icon": "../C-sharp.svg"
+      },
+      {
+        "TechCategory": "Programming Language",
+        "TechName": "C",
+        "Icon": "../C.svg"
+      },
+      {
+        "TechCategory": "Programming Language",
+        "TechName": "C++",
+        "Icon": "../C++.svg"
+      },
+      {
+        "TechCategory": "Programming Language",
+        "TechName": "Python",
+        "Icon": "../python.svg"
+      },
+      {
+        "TechCategory": "Programming Language",
+        "TechName": "ruby",
+        "Icon": "../ruby.svg"
+      }
+    ]
+}
